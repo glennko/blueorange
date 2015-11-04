@@ -1,7 +1,8 @@
 # blueorange
 A webapp for Allstate Connected Home Hackathon: http://connectedhome.devpost.com/
-
 Use this web app to track your connected home safety score, and get an estimate of the home insurance
+
+Big thanks to my team: Daniel Chen, Glenn Ko! It's great working with them.
 
 We were inspired by how auto insurance companies have been adopting new techniques to determine risk. In particular, some insurance companies offer the ability to attach a chip to the computer in order to monitor driving habits. This data can be used to calculate the risk for a driver as well as keeping the driver aware of their own habits. So, we thought: why not have something similar to assess risk for costly home insurance claims. These include things such as theft, fire, and water damage. This risk score can be used by both insurance companies in order to provide appropriate premiums. Customers can use this knowledge in order to mitigate the factors of their own home, thus improving their insurance premium.
 
